@@ -1,6 +1,5 @@
 'use client';
-// 1. Basic ShadCN Form using React and Tailwind (TypeScript to JavaScript)
-// Assuming you have already set up ShadCN via `npx shadcn@latest init`
+
 
 import { useState } from 'react'
 import { Input } from "@/components/ui/input"
@@ -12,7 +11,7 @@ export default function QuoteForm({ onSubmit }) {
 
   function handleSubmit(e) {
     e.preventDefault()
-    onSubmit(topic)
+    
   }
 
   return (
