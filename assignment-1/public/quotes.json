@@ -1,0 +1,484 @@
+{
+    "quotes":[
+  {
+    "topic": "Motivation",
+    "quote": "The only way to do great work is to love what you do. - Steve Jobs",
+    "author": "Steve Jobs"
+  },
+  {
+    "topic": "Motivation",
+    "quote": "Believe you can and you're halfway there. - Theodore Roosevelt",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "topic": "Motivation",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+    "author": "Winston Churchill"
+  },
+  {
+    "topic": "Wisdom",
+    "quote": "The only true wisdom is in knowing you know nothing. - Socrates",
+    "author": "Socrates"
+  },
+  {
+    "topic": "Wisdom",
+    "quote": "Knowledge speaks, but wisdom listens. - Jimi Hendrix",
+    "author": "Jimi Hendrix"
+  },
+  {
+    "topic": "Wisdom",
+    "quote": "To handle yourself, use your head; to handle others, use your heart. - Eleanor Roosevelt",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "topic": "Technology",
+    "quote": "The best way to predict the future is to invent it. - Alan Kay",
+    "author": "Alan Kay"
+  },
+  {
+    "topic": "Technology",
+    "quote": "Software is eating the world. - Marc Andreessen",
+    "author": "Marc Andreessen"
+  },
+  {
+    "topic": "Technology",
+    "quote": "The computer was born to solve problems that did not exist before. - Bill Gates",
+    "author": "Bill Gates"
+  },
+  {
+    "topic": "Inspiration",
+    "quote": "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "topic": "Inspiration",
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals. - Zig Ziglar",
+    "author": "Zig Ziglar"
+  },
+  {
+    "topic": "Inspiration",
+    "quote": "You are never too old to set another goal or to dream a new dream. - C.S. Lewis",
+    "author": "C.S. Lewis"
+  },
+  {
+    "topic": "Leadership",
+    "quote": "A leader is one who knows the way, goes the way, and shows the way. - John C. Maxwell",
+    "author": "John C. Maxwell"
+  },
+  {
+    "topic": "Leadership",
+    "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things. - Ronald Reagan",
+    "author": "Ronald Reagan"
+  },
+  {
+    "topic": "Leadership",
+    "quote": "Innovation distinguishes between a leader and a follower. - Steve Jobs",
+    "author": "Steve Jobs"
+  },
+  {
+    "topic": "Happiness",
+    "quote": "Happiness is not something ready-made. It comes from your own actions. - Dalai Lama",
+    "author": "Dalai Lama"
+  },
+  {
+    "topic": "Happiness",
+    "quote": "The purpose of our lives is to be happy. - Dalai Lama",
+    "author": "Dalai Lama"
+  },
+  {
+    "topic": "Happiness",
+    "quote": "Happiness depends upon ourselves. - Aristotle",
+    "author": "Aristotle"
+  },
+  {
+    "topic": "Education",
+    "quote": "Education is the most powerful weapon which you can use to change the world. - Nelson Mandela",
+    "author": "Nelson Mandela"
+  },
+  {
+    "topic": "Education",
+    "quote": "The beautiful thing about learning is that no one can take it away from you. - B.B. King",
+    "author": "B.B. King"
+  },
+  {
+    "topic": "Education",
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever. - Mahatma Gandhi",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "topic": "Success",
+    "quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome. - Booker T. Washington",
+    "author": "Booker T. Washington"
+  },
+  {
+    "topic": "Success",
+    "quote": "Don’t aim for success if you want it; just do what you love and believe in, and it will come naturally. - David Frost",
+    "author": "David Frost"
+  },
+  {
+    "topic": "Success",
+    "quote": "The secret of success is to know something nobody else knows. - Aristotle Onassis",
+    "author": "Aristotle Onassis"
+  },
+  {
+    "topic": "Nature",
+    "quote": "In every walk with nature, one receives far more than he seeks. - John Muir",
+    "author": "John Muir"
+  },
+  {
+    "topic": "Nature",
+    "quote": "The earth does not belong to us; we belong to the earth. - Marlee Matlin",
+    "author": "Marlee Matlin"
+  },
+  {
+    "topic": "Nature",
+    "quote": "Look deep into nature, and then you will understand everything better. - Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "topic": "Friendship",
+    "quote": "A friend is someone who knows all about you and still loves you. - Elbert Hubbard",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "topic": "Friendship",
+    "quote": "Friendship is born at that moment when one person says to another: ‘What! You too? I thought I was the only one.’ - C.S. Lewis",
+    "author": "C.S. Lewis"
+  },
+  {
+    "topic": "Friendship",
+    "quote": "The only way to have a friend is to be one. - Ralph Waldo Emerson",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "topic": "Courage",
+    "quote": "Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain",
+    "author": "Mark Twain"
+  },
+  {
+    "topic": "Courage",
+    "quote": "It takes courage to grow up and become who you really are. - E.E. Cummings",
+    "author": "E.E. Cummings"
+  },
+  {
+    "topic": "Courage",
+    "quote": "The best way out is always through. - Robert Frost",
+    "author": "Robert Frost"
+  },
+  {
+    "topic": "Creativity",
+    "quote": "Creativity is intelligence having fun. - Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "topic": "Creativity",
+    "quote": "The chief enemy of creativity is ‘good’ sense. - Pablo Picasso",
+    "author": "Pablo Picasso"
+  },
+  {
+    "topic": "Creativity",
+    "quote": "To practice any art, no matter how well or badly, is a way to make your soul grow. - Kurt Vonnegut",
+    "author": "Kurt Vonnegut"
+  },
+  {
+    "topic": "Health",
+    "quote": "To keep the body in good health is a duty… otherwise we shall not be able to keep our mind strong and clear. - Buddha",
+    "author": "Buddha"
+  },
+  {
+    "topic": "Health",
+    "quote": "The greatest wealth is health. - Virgil",
+    "author": "Virgil"
+  },
+  {
+    "topic": "Health",
+    "quote": "Take care of your body. It’s the only place you have to live. - Jim Rohn",
+    "author": "Jim Rohn"
+  },
+  {
+    "topic": "Love",
+    "quote": "The best thing to hold onto in life is each other. - Audrey Hepburn",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "topic": "Love",
+    "quote": "Love recognizes no barriers. - Maya Angelou",
+    "author": "Maya Angelou"
+  },
+  {
+    "topic": "Love",
+    "quote": "We are most alive when we’re in love. - John Updike",
+    "author": "John Updike"
+  },
+  {
+    "topic": "Peace",
+    "quote": "Peace begins with a smile. - Mother Teresa",
+    "author": "Mother Teresa"
+  },
+  {
+    "topic": "Peace",
+    "quote": "An eye for an eye only ends up making the whole world blind. - Mahatma Gandhi",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "topic": "Peace",
+    "quote": "There is no way to peace, peace is the way. - A.J. Muste",
+    "author": "A.J. Muste"
+  },
+  {
+    "topic": "Adventure",
+    "quote": "Life is either a daring adventure or nothing at all. - Helen Keller",
+    "author": "Helen Keller"
+  },
+  {
+    "topic": "Adventure",
+    "quote": "The world is a book, and those who do not travel read only one page. - Saint Augustine",
+    "author": "Saint Augustine"
+  },
+  {
+    "topic": "Adventure",
+    "quote": "Adventure is worthwhile in itself. - Amelia Earhart",
+    "author": "Amelia Earhart"
+  },
+  {
+    "topic": "Resilience",
+    "quote": "Fall seven times, stand up eight. - Japanese Proverb",
+    "author": "Japanese Proverb"
+  },
+  {
+    "topic": "Resilience",
+    "quote": "The wound is the place where the light enters you. - Rumi",
+    "author": "Rumi"
+  },
+  {
+    "topic": "Resilience",
+    "quote": "You may have to fight a battle more than once to win it. - Margaret Thatcher",
+    "author": "Margaret Thatcher"
+  },
+  {
+    "topic": "Curiosity",
+    "quote": "The important thing is not to stop questioning. - Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "topic": "Curiosity",
+    "quote": "Curiosity is the wick in the candle of learning. - William Arthur Ward",
+    "author": "William Arthur Ward"
+  },
+  {
+    "topic": "Curiosity",
+    "quote": "I have no special talents, I am only passionately curious. - Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "topic": "Innovation",
+    "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes. - Marcel Proust",
+    "author": "Marcel Proust"
+  },
+  {
+    "topic": "Innovation",
+    "quote": "Innovation is the ability to see change as an opportunity, not a threat. - Steve Jobs",
+    "author": "Steve Jobs"
+  },
+  {
+    "topic": "Innovation",
+    "quote": "The future is not something we enter. The future is something we create. - Leonard I. Sweet",
+    "author": "Leonard I. Sweet"
+  },
+  {
+    "topic": "Hope",
+    "quote": "Hope is the thing with feathers that perches in the soul. - Emily Dickinson",
+    "author": "Emily Dickinson"
+  },
+  {
+    "topic": "Hope",
+    "quote": "Everything that is done in the world is done by hope. - Martin Luther",
+    "author": "Martin Luther"
+  },
+  {
+    "topic": "Hope",
+    "quote": "Once you choose hope, anything is possible. - Christopher Reeve",
+    "author": "Christopher Reeve"
+  },
+  {
+    "topic": "Teamwork",
+    "quote": "Alone we can do so little; together we can do so much. - Helen Keller",
+    "author": "Helen Keller"
+  },
+  {
+    "topic": "Teamwork",
+    "quote": "Coming together is a beginning, staying together is progress, and working together is success. - Henry Ford",
+    "author": "Henry Ford"
+  },
+  {
+    "topic": "Teamwork",
+    "quote": "None of us is as smart as all of us. - Ken Blanchard",
+    "author": "Ken Blanchard"
+  },
+  {
+    "topic": "Gratitude",
+    "quote": "Gratitude turns what we have into enough, and more. - Melody Beattie",
+    "author": "Melody Beattie"
+  },
+  {
+    "topic": "Gratitude",
+    "quote": "The root of joy is gratitude. - David Steindl-Rast",
+    "author": "David Steindl-Rast"
+  },
+  {
+    "topic": "Gratitude",
+    "quote": "Be thankful for what you have; you'll end up having more. - Oprah Winfrey",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "topic": "Growth",
+    "quote": "What you get by achieving your goals is not as important as what you become. - Zig Ziglar",
+    "author": "Zig Ziglar"
+  },
+  {
+    "topic": "Growth",
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "topic": "Growth",
+    "quote": "Change is the end result of all true learning. - Leo Buscaglia",
+    "author": "Leo Buscaglia"
+  },
+  {
+    "topic": "Freedom",
+    "quote": "The secret to happiness is freedom, and the secret to freedom is courage. - Thucydides",
+    "author": "Thucydides"
+  },
+  {
+    "topic": "Freedom",
+    "quote": "Liberty, when it begins to take root, is a plant of rapid growth. - George Washington",
+    "author": "George Washington"
+  },
+  {
+    "topic": "Freedom",
+    "quote": "Freedom is nothing but a chance to be better. - Albert Camus",
+    "author": "Albert Camus"
+  },
+  {
+    "topic": "Art",
+    "quote": "Art enables us to find ourselves and lose ourselves at the same time. - Thomas Merton",
+    "author": "Thomas Merton"
+  },
+  {
+    "topic": "Art",
+    "quote": "Every artist was first an amateur. - Ralph Waldo Emerson",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "topic": "Art",
+    "quote": "Art is not what you see, but what you make others see. - Edgar Degas",
+    "author": "Edgar Degas"
+  },
+  {
+    "topic": "Justice",
+    "quote": "Injustice anywhere is a threat to justice everywhere. - Martin Luther King Jr.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "topic": "Justice",
+    "quote": "The moral arc of the universe is long, but it bends toward justice. - Theodore Parker",
+    "author": "Theodore Parker"
+  },
+  {
+    "topic": "Justice",
+    "quote": "Justice is truth in action. - Benjamin Disraeli",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "topic": "Persistence",
+    "quote": "Energy and persistence conquer all things. - Benjamin Franklin",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "topic": "Persistence",
+    "quote": "It does not matter how slowly you go as long as you do not stop. - Confucius",
+    "author": "Confucius"
+  },
+  {
+    "topic": "Persistence",
+    "quote": "Success is the result of perfection, hard work, learning from failure, loyalty, and persistence. - Colin Powell",
+    "author": "Colin Powell"
+  },
+  {
+    "topic": "Diversity",
+    "quote": "Strength lies in differences, not in similarities. - Stephen Covey",
+    "author": "Stephen Covey"
+  },
+  {
+    "topic": "Diversity",
+    "quote": "We all should know that diversity makes for a rich tapestry, and we must understand that all the threads of the tapestry are equal in value. - Maya Angelou",
+    "author": "Maya Angelou"
+  },
+  {
+    "topic": "Diversity",
+    "quote": "Diversity is the one true thing we all have in common. - Unknown",
+    "author": "Unknown"
+  },
+  {
+    "topic": "Humility",
+    "quote": "True humility is not thinking less of yourself; it is thinking of yourself less. - C.S. Lewis",
+    "author": "C.S. Lewis"
+  },
+  {
+    "topic": "Humility",
+    "quote": "Pride makes us artificial and humility makes us real. - Thomas Merton",
+    "author": "Thomas Merton"
+  },
+  {
+    "topic": "Humility",
+    "quote": "Humility is the solid foundation of all virtues. - Confucius",
+    "author": "Confucius"
+  },
+  {
+    "topic": "Travel",
+    "quote": "Travel makes one modest, you see what a tiny place you occupy in the world. - Gustave Flaubert",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "topic": "Travel",
+    "quote": "The journey of a thousand miles begins with one step. - Lao Tzu",
+    "author": "Lao Tzu"
+  },
+  {
+    "topic": "Travel",
+    "quote": "To travel is to take a journey into yourself. - Danny Kaye",
+    "author": "Danny Kaye"
+  },
+  {
+    "topic": "Empathy",
+    "quote": "Empathy is seeing with the eyes of another, listening with the ears of another, and feeling with the heart of another. - Alfred Adler",
+    "author": "Alfred Adler"
+  },
+  {
+    "topic": "Empathy",
+    "quote": "When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it. - Stephen Covey",
+    "author": "Stephen Covey"
+  },
+  {
+    "topic": "Empathy",
+    "quote": "Empathy is about finding echoes of another person in yourself. - Mohsin Hamid",
+    "author": "Mohsin Hamid"
+  },
+  {
+    "topic": "Legacy",
+    "quote": "The life of a man consists not in seeing visions and in dreaming dreams, but in active charity and in willing service. - Henry Wadsworth Longfellow",
+    "author": "Henry Wadsworth Longfellow"
+  },
+  {
+    "topic": "Legacy",
+    "quote": "What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others. - Pericles",
+    "author": "Pericles"
+  },
+  {
+    "topic": "Legacy",
+    "quote": "A legacy is not leaving something for people. It's leaving something in people. - Peter Strople",
+    "author": "Peter Strople"
+  }
+]
+}
